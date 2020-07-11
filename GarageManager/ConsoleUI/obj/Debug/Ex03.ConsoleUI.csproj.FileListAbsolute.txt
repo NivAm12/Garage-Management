@@ -1,0 +1,9 @@
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Niv Amos\Desktop\Files\sem b' 2020\c sharp\ex03\B20 Ex03 OfirKosto 313196933 NivAmos 316464486\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb

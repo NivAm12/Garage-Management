@@ -1,0 +1,6 @@
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\obj\Debug\GarageLogic.csprojAssemblyReference.cache
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\GarageLogic\obj\Debug\GarageLogic.pdb

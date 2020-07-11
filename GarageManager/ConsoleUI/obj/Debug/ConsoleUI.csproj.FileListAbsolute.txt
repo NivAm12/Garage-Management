@@ -1,0 +1,9 @@
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Niv Amos\Desktop\Files\development\GarageManager\ConsoleUI\obj\Debug\ConsoleUI.pdb
